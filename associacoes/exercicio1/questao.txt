@@ -1,0 +1,2 @@
+Criar um programa em Java que implemente a seguinte relação de associação entre classes: 
+Um departamento têm vários funcionários que por sua vez estão lotados em pelo o menos um departamento.
