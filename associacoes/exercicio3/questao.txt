@@ -1,0 +1,6 @@
+Criar um programa em Java que implemente a seguinte relação de associação entre classes: 
+Um professor possui vários alunos, e aluno possui vários professores.
+Por meio do programa será possível:
+cadastrar N professores e N alunos
+obter uma lista de alunos de um determinado professor
+Saber quantos professores um determinado aluno possui
