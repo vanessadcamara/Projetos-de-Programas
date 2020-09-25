@@ -1,0 +1,1 @@
+Elabore uma classe que receba dez nomes de pessoas por meio de showInputDialog, armazene esses nomes em um array de dez elementos, sorteie um ganhador e imprima o seu nome em tela. Para exibição use showMessageDialog. Para sortear o ganhador use Math.random()*10
